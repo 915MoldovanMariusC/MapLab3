@@ -1,0 +1,358 @@
+EXE STACK:
+(inta;(openRFile(Model.Expression.ValueExp@133314b);Model.Statement.ReadFileStmt@b1bc7ed))
+
+SYM TABLE
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+(openRFile(Model.Expression.ValueExp@133314b);Model.Statement.ReadFileStmt@b1bc7ed)
+inta
+
+SYM TABLE
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+(openRFile(Model.Expression.ValueExp@133314b);Model.Statement.ReadFileStmt@b1bc7ed)
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+Model.Statement.ReadFileStmt@b1bc7ed
+openRFile(Model.Expression.ValueExp@133314b)
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+Model.Statement.ReadFileStmt@b1bc7ed
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+log.txt
+
+ ---- 
+
+EXE STACK:
+
+SYM TABLE
+a --> 1
+
+OUT:
+
+FILE TABLE
+log.txt
+
+ ---- 
+
+EXE STACK:
+(inta;(openRFile(Model.Expression.ValueExp@133314b);Model.Statement.ReadFileStmt@b1bc7ed))
+
+SYM TABLE
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+(openRFile(Model.Expression.ValueExp@133314b);Model.Statement.ReadFileStmt@b1bc7ed)
+inta
+
+SYM TABLE
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+(openRFile(Model.Expression.ValueExp@133314b);Model.Statement.ReadFileStmt@b1bc7ed)
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+Model.Statement.ReadFileStmt@b1bc7ed
+openRFile(Model.Expression.ValueExp@133314b)
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+Model.Statement.ReadFileStmt@b1bc7ed
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+log.txt
+
+ ---- 
+
+EXE STACK:
+
+SYM TABLE
+a --> 1
+
+OUT:
+
+FILE TABLE
+log.txt
+
+ ---- 
+
+EXE STACK:
+(inta;(openRFile(Model.Expression.ValueExp@133314b);Model.Statement.ReadFileStmt@b1bc7ed))
+SYM TABLE
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+(openRFile(Model.Expression.ValueExp@133314b);Model.Statement.ReadFileStmt@b1bc7ed)inta
+SYM TABLE
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+(openRFile(Model.Expression.ValueExp@133314b);Model.Statement.ReadFileStmt@b1bc7ed)
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+Model.Statement.ReadFileStmt@b1bc7edopenRFile(Model.Expression.ValueExp@133314b)
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+Model.Statement.ReadFileStmt@b1bc7ed
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+log.txt
+
+ ---- 
+
+EXE STACK:
+
+SYM TABLE
+a --> 1
+
+OUT:
+
+FILE TABLE
+log.txt
+
+ ---- 
+
+EXE STACK:
+(inta;(openRFile(Model.Expression.ValueExp@133314b);Model.Statement.ReadFileStmt@b1bc7ed))
+
+SYM TABLE
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+(openRFile(Model.Expression.ValueExp@133314b);Model.Statement.ReadFileStmt@b1bc7ed)
+inta
+
+SYM TABLE
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+(openRFile(Model.Expression.ValueExp@133314b);Model.Statement.ReadFileStmt@b1bc7ed)
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+Model.Statement.ReadFileStmt@b1bc7ed
+openRFile(Model.Expression.ValueExp@133314b)
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+Model.Statement.ReadFileStmt@b1bc7ed
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+log.txt
+
+ ---- 
+
+EXE STACK:
+
+SYM TABLE
+a --> 1
+
+OUT:
+
+FILE TABLE
+log.txt
+
+ ---- 
+
+EXE STACK:
+(inta;(openRFile(Model.Expression.ValueExp@133314b);Model.Statement.ReadFileStmt@b1bc7ed))
+
+SYM TABLE
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+inta
+(openRFile(Model.Expression.ValueExp@133314b);Model.Statement.ReadFileStmt@b1bc7ed)
+
+SYM TABLE
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+(openRFile(Model.Expression.ValueExp@133314b);Model.Statement.ReadFileStmt@b1bc7ed)
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+openRFile(Model.Expression.ValueExp@133314b)
+Model.Statement.ReadFileStmt@b1bc7ed
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+
+ ---- 
+
+EXE STACK:
+Model.Statement.ReadFileStmt@b1bc7ed
+
+SYM TABLE
+a --> 0
+
+OUT:
+
+FILE TABLE
+log.txt
+
+ ---- 
+
+EXE STACK:
+
+SYM TABLE
+a --> 1
+
+OUT:
+
+FILE TABLE
+log.txt
+
+ ---- 
+
